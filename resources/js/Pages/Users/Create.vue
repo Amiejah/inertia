@@ -1,6 +1,5 @@
 <template>
     <div>
-        loading users
-
+        create a new user here
     </div>
 </template>
